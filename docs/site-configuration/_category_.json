@@ -1,0 +1,8 @@
+{
+  "label": "Site Configuration",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "You can finely tune how your WordPress website functions by understanding these sections."
+  }
+}
